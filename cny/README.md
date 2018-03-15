@@ -1,8 +1,8 @@
 # LAMP CNY Server
 This build contains a [LAMP server](https://hub.docker.com/r/danesc87/lamp/) with the **_extra_** following features:
-- __Composer:__ 
+- __Composer:__ 1.6.3
 - __NodeJS:__ 8.10
-- __Yarn
+- __Yarn:__ 1.5.1
 
 ## Run Lamp
 ```bash
